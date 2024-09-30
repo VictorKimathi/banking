@@ -1,6 +1,6 @@
 "use client"
-// pages/budget-setting.js
 import { useState } from 'react';
+
 
 const BudgetSetting = () => {
   // State to manage user-defined budgets
