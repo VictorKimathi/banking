@@ -1,0 +1,12 @@
+{
+  "/(root)/my-banks/page": "app/(root)/my-banks/page.js",
+  "/(root)/transaction-history/page": "app/(root)/transaction-history/page.js",
+  "/(root)/payment-transfer/page": "app/(root)/payment-transfer/page.js",
+  "/(root)/insights/page": "app/(root)/insights/page.js",
+  "/(root)/tuning/page": "app/(root)/tuning/page.js",
+  "/(root)/budget/page": "app/(root)/budget/page.js",
+  "/(root)/predictions/page": "app/(root)/predictions/page.js",
+  "/(root)/goals/page": "app/(root)/goals/page.js",
+  "/(root)/mymoney/page": "app/(root)/mymoney/page.js",
+  "/(root)/page": "app/(root)/page.js"
+}
